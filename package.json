@@ -1,0 +1,109 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-circular-progress",
+        "scope": null,
+        "escapedName": "react-native-circular-progress",
+        "name": "react-native-circular-progress",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "D:\\useabcv2\\SourceCode\\YSApp"
+    ]
+  ],
+  "_cnpm_publish_time": 1514404366232,
+  "_from": "react-native-circular-progress@latest",
+  "_id": "react-native-circular-progress@0.1.2",
+  "_inCache": true,
+  "_location": "/react-native-circular-progress",
+  "_nodeVersion": "9.3.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/react-native-circular-progress-0.1.2.tgz_1514404365033_0.1598513782955706"
+  },
+  "_npmUser": {
+    "name": "markusl",
+    "email": "markus.lindqvist@iki.fi"
+  },
+  "_npmVersion": "5.6.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-circular-progress",
+    "scope": null,
+    "escapedName": "react-native-circular-progress",
+    "name": "react-native-circular-progress",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npm.taobao.org/react-native-circular-progress/download/react-native-circular-progress-0.1.2.tgz",
+  "_shasum": "49bf297fe58c1431e08c09bf653d283680abda9f",
+  "_shrinkwrap": null,
+  "_spec": "react-native-circular-progress",
+  "_where": "D:\\useabcv2\\SourceCode\\YSApp",
+  "author": {
+    "name": "Bart Gryszko",
+    "email": "b@gryszko.com"
+  },
+  "bugs": {
+    "url": "https://github.com/bgryszko/react-native-circular-progress/issues"
+  },
+  "dependencies": {
+    "art": "^0.10.1",
+    "prop-types": "^15.6.0"
+  },
+  "description": "React Native component for creating animated, circular progress with ReactART",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "49bf297fe58c1431e08c09bf653d283680abda9f",
+    "size": 123038,
+    "noattachment": false,
+    "tarball": "http://registry.npm.taobao.org/react-native-circular-progress/download/react-native-circular-progress-0.1.2.tgz"
+  },
+  "gitHead": "0d289954804ae0e50ccac742a8c01fb7b0ac96db",
+  "homepage": "https://github.com/bgryszko/react-native-circular-progress",
+  "keywords": [
+    "react",
+    "react-native",
+    "react-component",
+    "progress",
+    "chart",
+    "react-art",
+    "art"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "bgryszko",
+      "email": "b@gryszko.com"
+    },
+    {
+      "name": "jacse",
+      "email": "jacsebl@hotmail.com"
+    },
+    {
+      "name": "markusl",
+      "email": "markus.lindqvist@iki.fi"
+    }
+  ],
+  "name": "react-native-circular-progress",
+  "optionalDependencies": {},
+  "peerDependencies": {
+    "react": ">= 15 || ~16.0.0-0",
+    "react-native": ">=0.39"
+  },
+  "publish_time": 1514404366232,
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bgryszko/react-native-circular-progress.git"
+  },
+  "version": "0.1.2"
+}
