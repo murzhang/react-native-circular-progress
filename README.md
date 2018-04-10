@@ -81,11 +81,12 @@ You can configure the passing by following props:
 - **fill** - current, percentage fill (from 0 to 100)
 - **prefill** - percentage fill before the animation (from 0 to 100)
 - **tintColor** - color of a progress line
-- **backgroundColor** - color of a background for progress line
+- **backgroundColor** - color of a background for progress line. Use 'transparent' to hide
 - **rotation** - by default, progress starts from the angle = 90⦝, you can change it by setting value from -360 to 360
 - **tension** - the tension value for the spring animation (see [here](https://facebook.github.io/react-native/docs/animations.html#core-api))
 - **friction** - the friction value for the spring animation (see [here](https://facebook.github.io/react-native/docs/animations.html#core-api))
 - **linecap** - the shape to be used at the ends of the circle. Possible values: butt (default), round or square. (see [here](https://developer.mozilla.org/en/docs/Web/SVG/Attribute/stroke-linecap))
+- **arcSweepAngle** - the angle that you want your arc to sweep in the case where you don't want a full circle. Default is 360.
 - **children(fill)** - you can pass function as a child to receive current fill
 - **onAnimationComplete** - you can pass a callback function that will be invoked when animation is complete. (see [here](https://facebook.github.io/react-native/docs/animated.html#working-with-animations))
 - **onLinearAnimationComplete** - you can pass a callback function that will be invoked when linear animation is complete. (see [here](https://facebook.github.io/react-native/docs/animated.html#working-with-animations))
